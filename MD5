@@ -1,0 +1,10 @@
+53e8d9b7bd905f4a143f095c905c4c7e *DESCRIPTION
+acf0484cf847bb1a8130a19d41a7dd0a *NAMESPACE
+1f8e1835f72a3d84dff2e22f18a95dc7 *R/globals.R
+926f6659eae0b1dab861e7d52b5377a3 *R/mpr_request.R
+8c05b8f30bea47396564a604efd99640 *R/slugInfo.R
+967e4d14d5a4ba39c1a68362701dbf41 *R/utils.R
+5b9734af7ed331dd77b3ceeb2fc17bff *R/zzz.R
+6978db293c0402be667fc2a63392dcfb *data/slugInfo.RData
+3c5f5e13a15086b5484767cb49eed40c *man/mpr_request.Rd
+b8f89665d2398fd885fea36a9080e5c1 *man/slugInfo.Rd
